@@ -17,7 +17,7 @@ function SchoolPage() {
   useEffect(() => {
     // Add cache-busting parameter to force fresh data
     const cacheBuster = new Date().getTime();
-    fetch(`/schools/${schoolId}.json?t=${cacheBuster}`)
+    fetch(`./schools/${schoolId}.json?t=${cacheBuster}`)
       .then((res) => res.json())
       .then((data) => setSchoolData(data))
       .catch((err) => console.error("Error loading school data:", err));
