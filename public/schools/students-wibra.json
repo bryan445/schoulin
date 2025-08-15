@@ -1,0 +1,669 @@
+{
+  "Grade 1": [
+    {
+      "id": "GFA004",
+      "name": "Grace Chimwaza",
+      "class": "Form 1",
+      "guardian": "Mr. James Chimwaza",
+      "phone": "+265 666 456 789",
+      "email": "james.chimwaza@email.com",
+      "address": "Plot 78, Area 25, Lilongwe",
+      "dateOfBirth": "2010-05-12",
+      "admissionDate": "2023-01-08",
+      "fees": {
+        "totalOwed": 250000,
+        "totalPaid": 200000,
+        "balance": 50000,
+        "nextPaymentDue": "2024-12-15"
+      },
+      "results": {
+        "term1": {
+          "firstAssessment": {
+            "english": 85,
+            "mathematics": 82,
+            "science": 84,
+            "history": 81,
+            "geography": 83,
+            "date": "2024-03-15",
+            "average": 83.0
+          },
+          "secondAssessment": {
+            "english": 88,
+            "mathematics": 85,
+            "science": 87,
+            "history": 84,
+            "geography": 86,
+            "date": "2024-05-20",
+            "average": 86.0
+          },
+          "finalExam": {
+            "english": 92,
+            "mathematics": 90,
+            "science": 90,
+            "history": 87,
+            "geography": 89,
+            "date": "2024-07-10",
+            "average": 89.6
+          },
+          "termAverage": 86.2,
+          "termGrade": "A-",
+          "position": 3,
+          "totalStudents": 25
+        },
+        "term2": {
+          "firstAssessment": {
+            "english": 88,
+            "mathematics": 85,
+            "science": 87,
+            "history": 84,
+            "geography": 86,
+            "date": "2024-09-15",
+            "average": 86.0
+          },
+          "secondAssessment": {
+            "english": 90,
+            "mathematics": 88,
+            "science": 89,
+            "history": 86,
+            "geography": 88,
+            "date": "2024-11-20",
+            "average": 88.2
+          },
+          "finalExam": {
+            "english": 94,
+            "mathematics": 92,
+            "science": 92,
+            "history": 89,
+            "geography": 91,
+            "date": "2025-01-10",
+            "average": 91.6
+          },
+          "termAverage": 88.6,
+          "termGrade": "A",
+          "position": 2,
+          "totalStudents": 25
+        },
+        "term3": {
+          "firstAssessment": {
+            "english": 90,
+            "mathematics": 88,
+            "science": 89,
+            "history": 86,
+            "geography": 88,
+            "date": "2025-03-15",
+            "average": 88.2
+          },
+          "secondAssessment": {
+            "english": 92,
+            "mathematics": 90,
+            "science": 91,
+            "history": 88,
+            "geography": 90,
+            "date": "2025-05-20",
+            "average": 90.2
+          },
+          "finalExam": {
+            "english": 96,
+            "mathematics": 94,
+            "science": 94,
+            "history": 91,
+            "geography": 93,
+            "date": "2025-07-10",
+            "average": 93.6
+          },
+          "termAverage": 90.7,
+          "termGrade": "A",
+          "position": 1,
+          "totalStudents": 25
+        }
+      }
+    }
+  ],
+  "Grade 2": [
+    {
+      "id": "GFA003",
+      "name": "Michael Phiri",
+      "class": "Form 2",
+      "guardian": "Mrs. Lucy Phiri",
+      "phone": "+265 777 345 678",
+      "email": "lucy.phiri@email.com",
+      "address": "Block 12, Mgona, Lilongwe",
+      "dateOfBirth": "2009-11-08",
+      "admissionDate": "2022-01-10",
+      "fees": {
+        "totalOwed": 280000,
+        "totalPaid": 180000,
+        "balance": 100000,
+        "nextPaymentDue": "2024-11-30"
+      },
+      "results": {
+        "term1": {
+          "firstAssessment": {
+            "english": 70,
+            "mathematics": 73,
+            "science": 76,
+            "history": 68,
+            "geography": 72,
+            "date": "2024-03-15",
+            "average": 71.8
+          },
+          "secondAssessment": {
+            "english": 72,
+            "mathematics": 75,
+            "science": 78,
+            "history": 70,
+            "geography": 74,
+            "date": "2024-05-20",
+            "average": 73.8
+          },
+          "finalExam": {
+            "english": 74,
+            "mathematics": 77,
+            "science": 80,
+            "history": 72,
+            "geography": 76,
+            "date": "2024-07-10",
+            "average": 75.8
+          },
+          "termAverage": 73.8,
+          "termGrade": "B",
+          "position": 12,
+          "totalStudents": 23
+        },
+        "term2": {
+          "firstAssessment": {
+            "english": 73,
+            "mathematics": 76,
+            "science": 78,
+            "history": 71,
+            "geography": 75,
+            "date": "2024-09-15",
+            "average": 74.6
+          },
+          "secondAssessment": {
+            "english": 75,
+            "mathematics": 78,
+            "science": 80,
+            "history": 73,
+            "geography": 77,
+            "date": "2024-11-20",
+            "average": 76.6
+          },
+          "finalExam": {
+            "english": 77,
+            "mathematics": 80,
+            "science": 82,
+            "history": 75,
+            "geography": 79,
+            "date": "2025-01-10",
+            "average": 78.6
+          },
+          "termAverage": 76.6,
+          "termGrade": "B+",
+          "position": 10,
+          "totalStudents": 23
+        },
+        "term3": {
+          "firstAssessment": {
+            "english": 75,
+            "mathematics": 78,
+            "science": 80,
+            "history": 73,
+            "geography": 77,
+            "date": "2025-03-15",
+            "average": 76.6
+          },
+          "secondAssessment": {
+            "english": 77,
+            "mathematics": 80,
+            "science": 82,
+            "history": 75,
+            "geography": 79,
+            "date": "2025-05-20",
+            "average": 78.6
+          },
+          "finalExam": {
+            "english": 79,
+            "mathematics": 82,
+            "science": 84,
+            "history": 77,
+            "geography": 81,
+            "date": "2025-07-10",
+            "average": 80.6
+          },
+          "termAverage": 78.6,
+          "termGrade": "B+",
+          "position": 9,
+          "totalStudents": 23
+        }
+      }
+    }
+  ],
+  "Grade 3": [
+    {
+      "id": "GFA002",
+      "name": "Sarah Banda",
+      "class": "Form 3",
+      "totalPoints": 7,
+      "guardian": "Mr. Patrick Banda",
+      "phone": "+265 888 234 567",
+      "email": "patrick.banda@email.com",
+      "address": "House 45, Kawale, Lilongwe",
+      "dateOfBirth": "2008-07-22",
+      "admissionDate": "2021-01-20",
+      "fees": {
+        "totalOwed": 300000,
+        "totalPaid": 300000,
+        "balance": 0,
+        "nextPaymentDue": "2025-01-15"
+      },
+      "results": {
+        "term1": {
+          "firstAssessment": {
+            "english": 83,
+            "mathematics": 86,
+            "science": 88,
+            "history": 80,
+            "geography": 85,
+            "chemistry": 82,
+            "physics": 79,
+            "date": "2024-03-15",
+            "average": 84.4
+          },
+          "secondAssessment": {
+            "english": 85,
+            "mathematics": 88,
+            "science": 90,
+            "history": 82,
+            "geography": 87,
+            "chemistry": 84,
+            "physics": 81,
+            "date": "2024-05-20",
+            "average": 86.4
+          },
+          "finalExam": {
+            "english": 87,
+            "mathematics": 90,
+            "science": 92,
+            "history": 84,
+            "geography": 89,
+            "chemistry": 86,
+            "physics": 83,
+            "date": "2024-07-10",
+            "average": 88.4,
+            "totalPoints": 7
+          },
+          "termAverage": 86.4,
+          "termGrade": "A",
+          "position": 4,
+          "totalStudents": 28
+        },
+        "term2": {
+          "firstAssessment": {
+            "english": 85,
+            "mathematics": 88,
+            "science": 90,
+            "history": 83,
+            "geography": 87,
+            "chemistry": 86,
+            "physics": 84,
+            "date": "2024-09-15",
+            "average": 86.6
+          },
+          "secondAssessment": {
+            "english": 87,
+            "mathematics": 90,
+            "science": 92,
+            "history": 85,
+            "geography": 89,
+            "chemistry": 88,
+            "physics": 86,
+            "date": "2024-11-20",
+            "average": 88.6
+          },
+          "finalExam": {
+            "english": 89,
+            "mathematics": 92,
+            "science": 94,
+            "history": 87,
+            "geography": 91,
+            "chemistry": 90,
+            "physics": 88,
+            "date": "2025-01-10",
+            "average": 90.6,
+            "totalPoints": 5
+          },
+          "termAverage": 88.6,
+          "termGrade": "A",
+          "position": 3,
+          "totalStudents": 28
+        },
+        "term3": {
+          "firstAssessment": {
+            "english": 87,
+            "mathematics": 90,
+            "science": 92,
+            "history": 85,
+            "geography": 89,
+            "chemistry": 88,
+            "physics": 87,
+            "date": "2025-03-15",
+            "average": 88.6
+          },
+          "secondAssessment": {
+            "english": 89,
+            "mathematics": 92,
+            "science": 94,
+            "history": 87,
+            "geography": 91,
+            "chemistry": 90,
+            "physics": 89,
+            "date": "2025-05-20",
+            "average": 90.6
+          },
+          "finalExam": {
+            "english": 91,
+            "mathematics": 94,
+            "science": 96,
+            "history": 89,
+            "geography": 93,
+            "chemistry": 92,
+            "physics": 91,
+            "date": "2025-07-10",
+            "average": 92.6,
+            "totalPoints": 3
+          },
+          "termAverage": 90.6,
+          "termGrade": "A+",
+          "position": 2,
+          "totalStudents": 28
+        }
+      }
+    }
+  ],
+  "Grade 4": [
+    {
+      "id": "GFA001",
+      "name": "John Mwamba",
+      "class": "Form 4",
+      "totalPoints": 9,
+      "guardian": "Mrs. Grace Mwamba",
+      "phone": "+265 999 123 456",
+      "email": "grace.mwamba@email.com",
+      "address": "Plot 123, Area 47, Lilongwe",
+      "dateOfBirth": "2007-03-15",
+      "admissionDate": "2020-01-15",
+      "fees": {
+        "totalOwed": 350000,
+        "totalPaid": 250000,
+        "balance": 100000,
+        "nextPaymentDue": "2024-12-31"
+      },
+      "results": {
+        "term1": {
+          "firstAssessment": {
+            "english": 76,
+            "mathematics": 83,
+            "science": 80,
+            "history": 73,
+            "geography": 78,
+            "chemistry": 79,
+            "computerstudies": 81,
+            "homeeconomics": 77,
+            "date": "2024-03-15",
+            "average": 78.0
+          },
+          "secondAssessment": {
+            "english": 78,
+            "mathematics": 85,
+            "science": 82,
+            "history": 75,
+            "geography": 80,
+            "chemistry": 81,
+            "computerstudies": 83,
+            "homeeconomics": 79,
+            "date": "2024-05-20",
+            "average": 80.0
+          },
+          "finalExam": {
+            "english": 80,
+            "mathematics": 87,
+            "science": 84,
+            "history": 77,
+            "geography": 82,
+            "chemistry": 83,
+            "computerstudies": 85,
+            "homeeconomics": 81,
+            "date": "2024-07-10",
+            "average": 82.0,
+            "totalPoints": 13
+          },
+          "termAverage": 80.0,
+          "termGrade": "B+",
+          "position": 8,
+          "totalStudents": 22
+        },
+        "term2": {
+          "firstAssessment": {
+            "english": 78,
+            "mathematics": 86,
+            "science": 83,
+            "history": 76,
+            "geography": 81,
+            "chemistry": 83,
+            "computerstudies": 85,
+            "homeeconomics": 81,
+            "date": "2024-09-15",
+            "average": 80.8
+          },
+          "secondAssessment": {
+            "english": 80,
+            "mathematics": 88,
+            "science": 85,
+            "history": 78,
+            "geography": 83,
+            "chemistry": 85,
+            "computerstudies": 87,
+            "homeeconomics": 83,
+            "date": "2024-11-20",
+            "average": 82.8
+          },
+          "finalExam": {
+            "english": 82,
+            "mathematics": 90,
+            "science": 87,
+            "history": 80,
+            "geography": 85,
+            "chemistry": 87,
+            "computerstudies": 89,
+            "homeeconomics": 85,
+            "date": "2025-01-10",
+            "average": 84.8,
+            "totalPoints": 11
+          },
+          "termAverage": 82.8,
+          "termGrade": "A-",
+          "position": 6,
+          "totalStudents": 22
+        },
+        "term3": {
+          "firstAssessment": {
+            "english": 80,
+            "mathematics": 88,
+            "science": 85,
+            "history": 78,
+            "geography": 83,
+            "chemistry": 85,
+            "computerstudies": 87,
+            "homeeconomics": 83,
+            "date": "2025-03-15",
+            "average": 82.8
+          },
+          "secondAssessment": {
+            "english": 82,
+            "mathematics": 90,
+            "science": 87,
+            "history": 80,
+            "geography": 85,
+            "chemistry": 87,
+            "computerstudies": 89,
+            "homeeconomics": 85,
+            "date": "2025-05-20",
+            "average": 84.8
+          },
+          "finalExam": {
+            "english": 84,
+            "mathematics": 92,
+            "science": 89,
+            "history": 82,
+            "geography": 87,
+            "chemistry": 89,
+            "computerstudies": 91,
+            "homeeconomics": 87,
+            "date": "2025-07-10",
+            "average": 86.8,
+            "totalPoints": 9
+          },
+          "termAverage": 84.8,
+          "termGrade": "A-",
+          "position": 5,
+          "totalStudents": 22
+        }
+      }
+    }
+  ],
+
+
+  "Grade 5": [
+    {
+      "id": "GFA005",
+      "name": "Emily Chirwa",
+      "class": "Form 5",
+      "totalPoints": 10,
+      "guardian": "Mr. Joseph Chirwa",
+      "phone": "+265 555 678 123",
+      "email": "joseph.chirwa@email.com",
+      "address": "Plot 123, Area 10, Lilongwe",
+      "dateOfBirth": "2015-02-14",
+      "admissionDate": "2023-01-08",
+      "fees": {
+        "totalOwed": 250000,
+        "totalPaid": 200000,
+        "balance": 50000,
+        "nextPaymentDue": "2024-12-15"
+      },
+      "results": {
+        "term1": {
+          "firstAssessment": {
+            "english": 85,
+            "mathematics": 82,
+            "science": 84,
+            "history": 81,
+            "geography": 83,
+            "date": "2024-03-15",
+            "average": 83.0
+          },
+          "secondAssessment": {
+            "science": 87,
+            "history": 80,
+            "geography": 85,
+            "chemistry": 84,
+            "physics": 82,
+            "date": "2024-05-20",
+            "average": 85.0
+          },
+          "finalExam": {
+            "english": 90,
+            "mathematics": 88,
+            "science": 90,  
+            "history": 89,
+            "geography": 88,
+            "chemistry": 87,
+            "physics": 85,
+            "date": "2024-07-10",
+            "average": 88.0,
+            "totalPoints": 10
+          },
+          "termAverage": 85.0,
+          "termGrade": "A",
+          "position": 1,
+          "totalStudents": 30
+        },
+        "term2": {
+          "firstAssessment": {
+            "english": 88,
+            "mathematics": 85,
+            "science": 87,
+            "history": 84,
+            "geography": 86,    
+            "date": "2024-03-15",
+            "average": 86.0
+          },
+          "secondAssessment": {
+            "science": 89,
+            "history": 87,
+            "geography": 88,
+            "chemistry": 86,
+            "physics": 84,
+            "date": "2024-05-20",
+            "average": 87.0
+          },
+          "finalExam": {
+            "english": 92,
+            "mathematics": 90,
+            "science": 92,
+            "history": 89,
+            "geography": 91,
+            "chemistry": 88,
+            "physics": 86,      
+            "date": "2024-07-10",
+            "average": 90.0,
+            "totalPoints": 10
+          },
+          "termAverage": 88.0,
+          "termGrade": "A",
+          "position": 2,
+          "totalStudents": 30
+        },
+        "term3": {
+          "firstAssessment": {
+            "english": 90,
+            "mathematics": 88,
+            "science": 90,
+            "history": 89,
+            "geography": 91,
+            "date": "2025-03-15",
+            "average": 89.0
+          },
+          "secondAssessment": {
+            "english": 92,
+            "mathematics": 90,
+            "science": 92,
+            "history": 91,
+            "geography": 93,
+            "chemistry": 90,
+            "physics": 88,
+            "date": "2025-05-20",
+            "average": 90.0
+          },
+          "finalExam": {
+            "english": 95,
+            "mathematics": 93,
+            "science": 95,
+            "history": 94,
+            "geography": 96,
+            "chemistry": 92,
+            "physics": 90,
+            "date": "2025-07-10",
+            "average": 93.0,
+            "totalPoints": 10
+          },
+          "termAverage": 90.0,
+          "termGrade": "A",
+          "position": 1,
+          "totalStudents": 30
+        }
+      }
+    }
+  ]
+}

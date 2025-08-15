@@ -1,0 +1,84 @@
+{
+  "name": "Chisomo",
+  "location": "Lilongwe",
+  "motto": "Excellence Through Knowledge",
+  "fees": "MK 150,000 per term",
+  "detailedFees": {
+    "nursery": {
+      "level": "Nursery (3-5 years)",
+      "tuitionFee": "MK 80,000 per term",
+      "admissionFee": "MK 15,000 (one-time)",
+      "developmentFee": "MK 25,000 per year",
+      "uniformFee": "MK 35,000 (optional)",
+      "booksAndMaterials": "MK 20,000 per year",
+      "total": "MK 95,000 per term (excluding one-time fees)"
+    },
+    "primary": {
+      "level": "Primary School (Standard 1-8)",
+      "tuitionFee": "MK 120,000 per term",
+      "admissionFee": "MK 20,000 (one-time)",
+      "developmentFee": "MK 35,000 per year",
+      "uniformFee": "MK 45,000 (optional)",
+      "booksAndMaterials": "MK 30,000 per year",
+      "examFees": "MK 15,000 per year",
+      "total": "MK 135,000 per term (excluding one-time fees)"
+    },
+    "secondary": {
+      "level": "Secondary School (Form 1-4)",
+      "tuitionFee": "MK 150,000 per term",
+      "admissionFee": "MK 25,000 (one-time)",
+      "developmentFee": "MK 45,000 per year",
+      "uniformFee": "MK 55,000 (optional)",
+      "booksAndMaterials": "MK 40,000 per year",
+      "examFees": "MK 25,000 per year (MSCE: MK 35,000)",
+      "laboratoryFee": "MK 20,000 per year",
+      "total": "MK 170,000 per term (excluding one-time fees)"
+    },
+    "additionalInfo": "All fees are payable at the beginning of each term. A 10% discount is available for full year payment. Sibling discount of 5% applies for second child onwards. Payment can be made in installments with prior arrangement."
+  },
+  "results": "All results available at the school office.",
+  "about": "Established in 1985, Greenfield Academy is a premier educational institution in Lilongwe, committed to providing quality education and nurturing young minds. Our modern facilities and experienced faculty ensure students receive the best education possible.",
+  "admissionInfo": {
+    "requirements": "Birth certificate, Previous school reports, Medical certificate, Passport photos (4)",
+    "process": "Visit the school office, Complete application form, Pay application fee of MK 5,000, Attend interview",
+    "deadline": "Applications close on December 15th each year",
+    "contact": "Phone: +265 1 234 567 | Email: admissions@greenfield.edu.mw"
+  },
+  "news": [
+    {
+      "title": "New Science Laboratory Opened",
+      "date": "2025-01-10",
+      "content": "We are excited to announce the opening of our state-of-the-art science laboratory, equipped with modern equipment for physics, chemistry, and biology experiments."
+    },
+    {
+      "title": "Sports Day 2025",
+      "date": "2025-01-05",
+      "content": "Annual sports day will be held on February 20th, 2025. All students are encouraged to participate in various athletic events."
+    },
+    {
+      "title": "Academic Excellence Awards",
+      "date": "2024-12-15",
+      "content": "Congratulations to our top performers in the 2024 national examinations. 95% of our students achieved distinction grades."
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Term 1 2025 Begins",
+      "date": "2025-01-15",
+      "content": "Classes for Term 1 2025 begin on January 22nd. All students should report by 7:00 AM.",
+      "urgent": true
+    },
+    {
+      "title": "Parent-Teacher Meeting",
+      "date": "2025-01-12",
+      "content": "Parent-teacher consultations scheduled for January 25th from 2:00 PM to 5:00 PM.",
+      "urgent": false
+    },
+    {
+      "title": "Library Hours Extended",
+      "date": "2025-01-08",
+      "content": "The school library will now be open until 6:00 PM on weekdays to accommodate more study time.",
+      "urgent": false
+    }
+  ]
+}
