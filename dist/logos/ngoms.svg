@@ -1,0 +1,31 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="38" fill="#1565C0" stroke="#0D47A1" stroke-width="2"/>
+  
+  <!-- Sun rays -->
+  <g stroke="#FFD700" stroke-width="3" stroke-linecap="round">
+    <line x1="40" y1="8" x2="40" y2="15"/>
+    <line x1="62" y1="18" x2="57" y2="23"/>
+    <line x1="72" y1="40" x2="65" y2="40"/>
+    <line x1="62" y1="62" x2="57" y2="57"/>
+    <line x1="40" y1="72" x2="40" y2="65"/>
+    <line x1="18" y1="62" x2="23" y2="57"/>
+    <line x1="8" y1="40" x2="15" y2="40"/>
+    <line x1="18" y1="18" x2="23" y2="23"/>
+  </g>
+  
+  <!-- Sun -->
+  <circle cx="40" cy="40" r="18" fill="#FFD700"/>
+  <circle cx="40" cy="40" r="15" fill="#FFC107"/>
+  
+  <!-- Book -->
+  <rect x="30" y="45" width="20" height="15" fill="#FFF" rx="2"/>
+  <rect x="30" y="45" width="20" height="3" fill="#667eea"/>
+  <line x1="40" y1="48" x2="40" y2="60" stroke="#E0E0E0" stroke-width="1"/>
+  
+  <!-- Graduation cap on sun -->
+  <rect x="35" y="32" width="10" height="3" fill="#000"/>
+  <rect x="33" y="30" width="14" height="2" fill="#000"/>
+  <circle cx="47" cy="31" r="1" fill="#FFD700"/>
+  <line x1="47" y1="31" x2="50" y2="28" stroke="#FFD700" stroke-width="1"/>
+</svg>

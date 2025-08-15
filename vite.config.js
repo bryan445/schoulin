@@ -2,9 +2,9 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
   plugins: [react()],
-  base: '/Schoolin/', // Set the base path for GitHub Pages
+  base: mode === 'production' ? '/schoulin/' : '/',
   server: {
     // Disable caching for development
     headers: {
@@ -13,4 +13,4 @@ export default defineConfig({
       'Expires': '0'
     }
   }
-})
+}))

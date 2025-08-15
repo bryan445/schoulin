@@ -352,8 +352,8 @@ function SchoolPage() {
       <div style={styles.container}>
         <div style={styles.header}>
           <div style={styles.schoolHeader}>
-            <img 
-              src={`/logos/${schoolId}.png`} 
+            <img
+              src={`./logos/${schoolId}.png`}
               alt={`${schoolData.name} Logo`}
               style={styles.schoolLogo}
             />

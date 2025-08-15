@@ -1,0 +1,27 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="38" fill="#2d7d36" stroke="#1e5a25" stroke-width="2"/>
+  
+  <!-- Tree trunk -->
+  <rect x="36" y="50" width="8" height="20" fill="#8B4513"/>
+  
+  <!-- Tree leaves -->
+  <circle cx="40" cy="45" r="15" fill="#4CAF50"/>
+  <circle cx="32" cy="40" r="12" fill="#66BB6A"/>
+  <circle cx="48" cy="40" r="12" fill="#66BB6A"/>
+  <circle cx="40" cy="32" r="10" fill="#81C784"/>
+  
+  <!-- School building -->
+  <rect x="25" y="55" width="30" height="15" fill="#FFF"/>
+  <rect x="25" y="55" width="30" height="3" fill="#667eea"/>
+  
+  <!-- Windows -->
+  <rect x="28" y="58" width="4" height="4" fill="#87CEEB"/>
+  <rect x="34" y="58" width="4" height="4" fill="#87CEEB"/>
+  <rect x="42" y="58" width="4" height="4" fill="#87CEEB"/>
+  <rect x="48" y="58" width="4" height="4" fill="#87CEEB"/>
+  
+  <!-- Door -->
+  <rect x="37" y="63" width="6" height="7" fill="#8B4513"/>
+  <circle cx="41" cy="66" r="0.5" fill="#FFD700"/>
+</svg>
